@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on refining my coding skills.
+- 🌱 I’m currently learning TensorFlow 
+- 🤔 I’m looking for help with getting Machine Learning Intership
+- 💬 Ask me about 
+- 📫 Reach me at: www.twitter.com/KrnKoli
+- ⚡ Fun fact: ...
 
 <!--
 **krnkoli/krnkoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
