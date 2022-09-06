@@ -8,5 +8,4 @@
 - 🤔 I’m looking for help with getting Machine Learning Intership
 - 💬 Ask me about 
 - 📫 Reach me at: www.twitter.com/KrnKoli
-- ⚡ Fun fact: ...
-
+- ⚡ Fun fact: ..
