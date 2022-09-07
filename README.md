@@ -3,14 +3,14 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/KrnKoli?label=Follow)](https://twitter.com/intent/follow?screen_name=KrnKoli)
 [![Linkedin: Karan](https://img.shields.io/badge/-Karan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krnkoli/)](https://www.linkedin.com/in/krnkoli/)
 
-![Cover Banner](https://user-images.githubusercontent.com/100320688/188878193-a2b971de-2a41-41dc-8336-12effa28b37f.jpg)
+![Cover Banner](https://user-images.githubusercontent.com/100320688/188886041-899b6373-a854-4258-ab6d-b8f92736e4f9.jpg)
 
 ## 👨🏻‍💻 &nbsp;About Me
 
 <img alt="PEPE" img width="156" height="140" src="https://user-images.githubusercontent.com/100320688/188876392-1e1430d4-dbac-49d2-a55e-d206609455db.gif" align="right"/>
 
 🎓  I'm currently self studying Machine Learning and Data Science. Done my major from RLA college,Delhi University.\
-💡  Some technologies I enjoy working with include Python, TensorFlow and C.\
+💡  Some languages I enjoy working with include Python, TensorFlow and C.\
 🌱  I'm on track for learning more about Data Structures and Algorithms.\
 ✉️  You can shoot me an email at krnkoli97@gmail.com! I'll try to respond as soon as I can.
 
