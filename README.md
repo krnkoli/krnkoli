@@ -19,6 +19,3 @@
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/krnkoli/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Instagram <a href="https://www.instagram.com/krnkoli/">KrnKoli</a> 😍
 - Sharing updates on <a href="https://www.linkedin.com/in/krnkoli/">LinkedIn</a> 😇
-
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/krnkoli/Actions/blob/output/github-contribution-grid-snake.svg)
