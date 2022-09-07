@@ -16,6 +16,6 @@
 
 
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/krnkoli/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/krnkoli/"><img align="left" width="150" height="130" src="https://user-images.githubusercontent.com/100320688/188885009-f1bf814e-2f37-4c30-ab15-f1f9a082cf80.gif?raw=true"></a>
 - Instagram <a href="https://www.instagram.com/krnkoli/">KrnKoli</a> 😍
 - Sharing updates on <a href="https://www.linkedin.com/in/krnkoli/">LinkedIn</a> 😇
