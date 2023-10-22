@@ -9,7 +9,7 @@
 
 <img alt="PEPE" img width="156" height="140" src="https://user-images.githubusercontent.com/100320688/188876392-1e1430d4-dbac-49d2-a55e-d206609455db.gif" align="right"/>
 
-🎓  I'm doing Machine Learning for fun. I have my major from RLA College, Delhi University.\
+🎓  Experimenting. I have my major from RLA College, Delhi University.\
 💡  Some languages I enjoy working with include Python, TensorFlow and C.\
 🌱  I'm on track for learning more about Data Structures and Algorithms.\
 ✉️  You can shoot me an email at krnkoli97@gmail.com! I'll try to respond as soon as I can.
